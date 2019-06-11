@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/CSharpIntermediate/.vs/CSharpIntermediate/v15
+/CSharpIntermediate/obj/Debug
+/CSharpIntermediate/CSharpIntermediate.sln
