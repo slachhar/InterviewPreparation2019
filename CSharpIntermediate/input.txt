@@ -1,0 +1,11 @@
+Mail Server, Authentication Library, v6
+Video Call Server, Authentication Library, v7
+Mail Server, Data Storage Library, v10
+Chat Server, Data Storage Library, v11
+Mail Server, Search Library, v6
+Chat Server, Authentication Library, v8
+Chat Server, Search Library, v7
+Video Call Server, Data Storage Library, v10
+Video Call Server, Video Compression Library, v3
+Video Call Server, Authentication Library, v12
+Mail Server, Search Library, v12
