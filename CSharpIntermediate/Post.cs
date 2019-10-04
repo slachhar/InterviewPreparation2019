@@ -6,13 +6,16 @@ namespace CSharpIntermediate
     {
         public string Title { get; set; }
         public string Description { get; set; }
-        public DateTime PostCreated { get; set; }
-        public int UpVote { get; set; }
-        public int DownVote { get; set; }
+        public DateTime CreatedOn { get; set; }
+        public int Votes{ get; private set; }
 
-        public int CurrentVoteValue()
+        public void UpVote()
         {
-            return UpVote - DownVote;
+            Votes++; }
+
+        public void DownVote()
+        {
+            Votes--;
         }
     }
 }

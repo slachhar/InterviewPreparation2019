@@ -43,10 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Customer.cs" />
+    <Compile Include="Composition.cs" />
+    <Compile Include="DBMigrator.cs" />
+    <Compile Include="Inheritance.cs" />
+    <Compile Include="Installer.cs" />
+    <Compile Include="Logger.cs" />
     <Compile Include="Post.cs" />
     <Compile Include="Stopwatch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StopWatch2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
