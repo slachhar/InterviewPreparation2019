@@ -3,8 +3,12 @@
 ################################################################################
 
 /.vs
-/CSharpIntermediate/.vs/CSharpIntermediate/v15
-/CSharpIntermediate/obj/Debug
-/CSharpIntermediate/CSharpIntermediate.sln
-/HackerRankProblems/obj/Debug
-/HackerRankProblems/.vs/HackerRankProblems/v15
+/CSharpIntermediate/.vs
+/CSharpIntermediate/obj
+/CSharpIntermediate/bin
+/HackerRankProblems/obj
+/HackerRankProblems/.vs
+/HackerRankProblems/bin
+/Polymorphism/obj
+/Polymorphism/.vs
+/Polymorphism/bin

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -16,7 +17,10 @@ namespace ProgramNamespace
     {
         static void Main(string[] args)
         {
-           
+            var list = new ArrayList();
+            list.Add(1);
+
+            int number = (int)list[0];
         }
     }
 
